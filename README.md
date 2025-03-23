@@ -8,5 +8,4 @@ Silas de Souza Ferreira RA: 10414793
 
 Israel Soares do N. Viana RA: 10414894
 
-Link da Apresentação em Vídeo: 
-Link do dataset: 
+Link da Apresentação em Vídeo: (Será Adicionado)
