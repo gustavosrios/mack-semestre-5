@@ -9,6 +9,8 @@ Silas de Souza Ferreira RA: 10414793
 Israel Soares do N. Viana RA: 10414894
 
 
-Não foi possível dar upload do notebook .ipynb pois excedeu o limite de 25mb, segue o link do notebook no google colab : https://drive.google.com/file/d/1uZWlzXXQ7CIIRfHqQCMzJqhdwRg-Aj2n/view?usp=sharing
+Não foi possível dar upload do notebook .ipynb pois excedeu o limite de 25mb, segue o link do notebook no google colaboratory: https://drive.google.com/file/d/1uZWlzXXQ7CIIRfHqQCMzJqhdwRg-Aj2n/view?usp=sharing
+
+Link da base de dados: https://drive.google.com/file/d/1bBtx2xxg3LYt0C9whtskJqA4eoLVM-33/view?usp=sharing
 
 Link da Apresentação em Vídeo: https://www.youtube.com/watch?v=E2q04R4dRF8
